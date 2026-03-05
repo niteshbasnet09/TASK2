@@ -1,0 +1,5 @@
+For each permutation of students:
+    Check constraints
+    If valid:
+        Return solution
+Return "No valid arrangement"
